@@ -45,7 +45,7 @@ Database schema contains three tables:
   
 
 
-![Employee Tracker](Assets/employee-tracker.gif)
+![Employee Tracker](Assets/employe-tracker.gif.gif)
 
 
 
